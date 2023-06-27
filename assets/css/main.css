@@ -2559,6 +2559,15 @@ input, select, textarea {
 					color: #953d75;
 				}
 
+				.logo-image {
+					height: 50px;
+				}
+
+				.headshot {
+					height: 400px;
+					border-radius: 5px;
+				}
+
 /* Image */
 
 	.image {
