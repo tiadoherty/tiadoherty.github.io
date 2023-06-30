@@ -4054,3 +4054,10 @@ body.is-preload #sidebar nav ul li {
 .skill-name {
 	margin: 1em 0 0 0;
 }
+
+
+.project-image {
+	background-size: contain !important;
+	background-position: center center !important;
+	background-repeat: no-repeat;
+}
